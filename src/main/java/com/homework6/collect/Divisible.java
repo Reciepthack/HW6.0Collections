@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Divisible {
 
-    public void remove() {
+    public void removeFromArray() {
         ArrayList<Integer> arrayList = new ArrayList<>();
         arrayList.add(3);
         arrayList.add(9);

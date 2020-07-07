@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class FindElement {
 
-    public void findIn() {
+    public void findElement() {
         ArrayList<Integer> first = new ArrayList<>();
         ArrayList<Integer> second = new ArrayList<>();
 

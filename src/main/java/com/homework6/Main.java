@@ -8,13 +8,13 @@ public class Main {
      public static void main(String[] args) {
 
          Divisible delete = new Divisible();
-         delete.remove();
+         delete.removeFromArray();
 
          FindElement find = new FindElement();
-         find.findIn();
+         find.findElement();
 
          Fruit fruit = new Fruit();
-         fruit.findFruit();
+         fruit.findOne();
 
     }
 }
